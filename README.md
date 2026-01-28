@@ -4,9 +4,9 @@
 These datasets are not longer maintained in the context of the CLMS Vegetation Phenology and Productivity (HR-VPP) therefore this repository aims to provide the tools needed to calculate these variables independently using Sentinel-2 data. 
 
 
-* [Leaf Area Index (LAI)]([https://pages.github.com/](https://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/LAI.ipynb)).
+* [Leaf Area Index (LAI)](https://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/LAI.ipynb).
 * [Fraction of Absorbed Photosynthetically Active Radiation (fAPAR)](https://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/FAPAR.ipynb).
-* [Normalized Difference Vegetation Index (NDVI) ]((http://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/NDVI.ipynb)).
+* [Normalized Difference Vegetation Index (NDVI) ](http://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/NDVI.ipynb).
 * [Plant Phenology Index (PPI) ](https://pages.github.com/).
 
 
