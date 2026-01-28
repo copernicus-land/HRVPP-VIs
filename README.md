@@ -7,7 +7,7 @@ These datasets are not longer maintained in the context of the CLMS Vegetation P
 * [Leaf Area Index (LAI)](https://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/LAI.ipynb).
 * [Fraction of Absorbed Photosynthetically Active Radiation (fAPAR)](https://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/FAPAR.ipynb).
 * [Normalized Difference Vegetation Index (NDVI) ](http://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/NDVI.ipynb).
-* [Plant Phenology Index (PPI) ](https://pages.github.com/).
+* [Plant Phenology Index (PPI) ](https://github.com/copernicus-land/HRVPP-VIs/blob/main/openEO_notebooks/PPI.ipynb).
 
 
 
